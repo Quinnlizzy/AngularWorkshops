@@ -1,0 +1,9 @@
+a reactive SPA
+
+on html page and - url seem to visit diff pages
+bunch of js code from server - every change is rendered in browser therefore very reactive experience
+easier than reaching out to serverlook and feel almost like mob apps
+
+every click just changes on html page
+js changes the dom - changes the html during runtime - so no refresh - just changing loaded page
+one single html element

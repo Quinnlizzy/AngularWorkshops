@@ -1,0 +1,4 @@
+angular 1 - not scalable
+ang 2 - diff frameword relaesed in 2016
+but other versions now
+ang versions 2 onwards is same framwework but diff version
