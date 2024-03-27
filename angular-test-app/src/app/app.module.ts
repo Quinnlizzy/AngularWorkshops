@@ -20,3 +20,4 @@ import { ServerComponent } from './server/server.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+//standalone segment later
